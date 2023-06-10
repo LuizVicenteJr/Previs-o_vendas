@@ -31,28 +31,5 @@ O Jupyter Notebook "modelo_final.ipynb" contém todo o processo de construção 
 
 **Previsões para o Futuro**: O modelo treinado é utilizado para fazer previsões de vendas futuras com base em novos conjuntos de dados. Isso permite que a empresa tome decisões informadas sobre a demanda de produtos, alocação de recursos e estratégias de vendas.
 
-Utilidade para uma Empresa
-A solução proposta neste projeto pode ser extremamente útil para uma empresa, como a rede Rossmann, de várias maneiras:
-
-Planejamento de Estoques: A previsão de vendas precisa permite que a empresa planeje seus estoques de maneira eficiente, garantindo que haja produtos suficientes para atender à demanda dos clientes, evitando estoques excessivos e reduzindo custos.
-
-Otimização de Promoções: Com a capacidade de prever as vendas futuras, a empresa pode otimizar suas estratégias de promoção. Isso inclui decidir quando e onde oferecer descontos ou promoções especiais para impulsionar as vendas e maximizar o retorno sobre o investimento.
-
-Planejamento de Recursos: Com uma previsão confiável das vendas futuras, a empresa pode planejar seus recursos, como mão de obra, logística e infraestrutura, para atender à demanda esperada. Isso ajuda a evitar gargalos operacionais e a garantir a satisfação do cliente.
-
-Análise de Impacto: A empresa pode usar o modelo para analisar o impacto de diferentes fatores nas vendas, como feriados, eventos locais ou mudanças nos preços dos concorrentes. Isso permite que a empresa tome decisões informadas sobre suas estratégias de negócios.
-
-Contribuições
-Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga estas etapas:
-
-Fork o projeto (https://github.com/LuizVicenteJr/Previsao_vendas/fork).
-Crie uma branch para sua modificação (git checkout -b feature/nova-feature).
-Faça as modificações desejadas.
-Commit suas alterações (git commit -am 'Adicionei uma nova feature').
-Push para a branch (git push origin feature/nova-feature).
-Abra uma pull request no GitHub.
-Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
 Contato
-Se você tiver alguma dúvida ou sugestão em relação a este projeto, sinta-se à vontade para entrar em contato comigo por meio do meu perfil do GitHub: @LuizVicenteJr.
+Se você tiver alguma dúvida ou sugestão em relação a este projeto, sinta-se à vontade para entrar em contato comigo por meio do meu perfil do GitHub: @LuizVicenteJr ou email : luizvicentediasjr@yahoo.com

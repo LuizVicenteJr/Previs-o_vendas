@@ -1,5 +1,5 @@
 # Previsão de Vendas
-Este é um projeto de previsão de vendas baseado na competição Kaggle "Rossmann Store Sales". O objetivo é construir um modelo de aprendizado de máquina que possa prever as vendas futuras de diferentes lojas da rede Rossmann.
+Este é um projeto de previsão de vendas baseado na competição Kaggle "Rossmann Store Sales" , onde construi uma solução para prever a venda de centenas de lojas com 6 semanas de antecedência obtendo um erro médio de apenas 10 % . 
 
 **A solução proposta neste projeto pode ser extremamente útil para uma empresa de várias maneiras**:
 
